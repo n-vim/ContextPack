@@ -1,0 +1,7 @@
+max_file_size_kb: 80
+token_budget: 18000
+include_tests: false
+include_docs: true
+include_config: true
+redact_secrets: true
+output_file: CONTEXT.md

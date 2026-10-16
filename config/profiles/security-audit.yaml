@@ -1,0 +1,3 @@
+profile: security
+prompt: security
+output_file: SECURITY_CONTEXT.md
